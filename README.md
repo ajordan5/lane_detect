@@ -8,4 +8,4 @@ To train the model I created lane masks on the [TuSimple dataset](https://papers
 
 The fully trained model was validated in real-time with a dash-cam on my personal vehicle. **You can see a video of it [here](https://www.youtube.com/watch?v=zTQr3NC0Ax0)**
 
-See Lane_Detection_on_TuSimple.ipynb notebook for a walkthrough of my method.
+See [`Lane_Detection_on_TuSimple.ipynb`](https://github.com/ajordan5/lane_detect/blob/master/Lane_Detection_on_TuSimple.ipynb) notebook for a walkthrough of my method.
